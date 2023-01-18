@@ -33,7 +33,13 @@ h1 {
 .checked {
   contain: x;
 }
-.div-sonuc {
-  font-size: 1.3rem;
+div.sonuc {
+  display: inline-block;
+  width: 200px;
+
+  margin: 2rem auto;
+  font-size: 1.5rem;
+  margin-left: 10rem;
   color: brown;
+  font-weight: 700;
 }
