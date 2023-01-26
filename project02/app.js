@@ -21,63 +21,63 @@ check1.addEventListener("click", () => {
   check1.classList.toggle("checked");
   line1.classList.toggle("text");
   if (line1.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check2.addEventListener("click", () => {
   check2.classList.toggle("checked");
   line2.classList.toggle("text");
   if (line2.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check3.addEventListener("click", () => {
   check3.classList.toggle("checked");
   line3.classList.toggle("text");
   if (line3.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check4.addEventListener("click", () => {
   check4.classList.toggle("checked");
   line4.classList.toggle("text");
   if (line4.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check5.addEventListener("click", () => {
   check5.classList.toggle("checked");
   line5.classList.toggle("text");
   if (line5.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check6.addEventListener("click", () => {
   check6.classList.toggle("checked");
   line6.classList.toggle("text");
   if (line6.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check7.addEventListener("click", () => {
   check7.classList.toggle("checked");
   line7.classList.toggle("text");
   if (line7.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check8.addEventListener("click", () => {
   check8.classList.toggle("checked");
   line8.classList.toggle("text");
   if (line8.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 check9.addEventListener("click", () => {
   check9.classList.toggle("checked");
   line9.classList.toggle("text");
   if (line9.classList.contains("text")) {
-    sayac++;
+    sayac.innerHTML++;
   }
 });
 console.log(line1.classList.contains("text"));
